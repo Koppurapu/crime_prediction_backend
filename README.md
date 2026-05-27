@@ -103,5 +103,3 @@ To run this API on your local machine, follow these steps:
 ## 🔒 Security Note
 This repository strictly ignores the `.env` file and all local datasets (`*.csv`) to prevent sensitive credentials and large files (bypassing GitHub's 100MB limit) from being exposed to the public. 
 
----
-*Built with ❤️ for the Hackathon.*
